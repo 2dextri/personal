@@ -6,10 +6,10 @@ body {
     text-align: center;
 }
 
-/* Profile image */
+
 .profile {
     margin-top: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .profile img {
@@ -18,22 +18,19 @@ body {
     object-fit: contain;
 }
 
-/* Horizontal lines */
 hr {
     width: 90%;
     border: none;
-    border-top: 3px solid black;
+    border-top: 4px solid black;
     margin: 20px auto;
 }
 
-/* Main title */
 h1 {
     font-size: 64px;
     font-weight: normal;
     margin: 30px 0;
 }
 
-/* Buttons */
 nav {
     display: flex;
     justify-content: space-around;
