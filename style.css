@@ -41,7 +41,7 @@ body {
 hr {
     width: 90%;
     border: none;
-    border-top: 4px solid white;
+    border-top: 2px solid white;
     margin: 20px auto;
 }
 
@@ -69,7 +69,7 @@ button {
     font-family: "Angelic Serif", serif;
     background-color: transparent;
     color: white;
-    border: 4px solid white;
+    border: 2px solid white;
     padding: 10px 30px;
     font-size: 24px;
     cursor: pointer;
