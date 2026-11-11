@@ -67,15 +67,15 @@ nav {
 
 button {
     font-family: "Angelic Serif", serif;
-    background-color: white;
+    background-color: transparent;
     color: black;
-    border: 3px solid black;
+    border: 4px solid black;
     padding: 10px 30px;
     font-size: 24px;
     cursor: pointer;
+    transition: transform 0.2s ease;
 }
 
 button:hover {
-    background-color: black;
-    color: white;
+    transform: scale(1.08);
 }
