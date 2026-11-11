@@ -11,7 +11,7 @@
 
 body {
     margin: 0;
-    color: black;
+    color: white;
     font-family: Arial, sans-serif;
     text-align: center;
 
@@ -41,7 +41,7 @@ body {
 hr {
     width: 90%;
     border: none;
-    border-top: 4px solid black;
+    border-top: 4px solid white;
     margin: 20px auto;
 }
 
