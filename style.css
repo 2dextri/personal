@@ -77,7 +77,7 @@ button {
 }
 
 button:hover {
-    transform: scale(1.08);
+    transform: scale(1.05);
     background-color: rgba(255, 255, 255, 0.15);
     color: white;
 }
@@ -108,5 +108,5 @@ button:hover {
 }
 
 .back-button:hover {
-    transform: scale(1.08);
+    transform: scale(1.05);
 }
