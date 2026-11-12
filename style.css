@@ -104,7 +104,7 @@ button:hover {
     border: 2px solid white;
     text-decoration: none;
 
-    transition: transform 0.2s ease out;
+    transition: transform 0.2s ease;
 }
 
 .back-button:hover {
